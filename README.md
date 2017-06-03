@@ -1,4 +1,4 @@
-# My Awesome Book
+# Machine Learning 学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas. 
+这里主要是用于记录，学习中的心得和总结
 
