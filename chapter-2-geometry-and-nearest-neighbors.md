@@ -14,11 +14,13 @@ Data : **List of feature** values and **one dimension for each feature. 也就�
 
 ![](/assets/Untitled picture.png)
 
-
-
 * D ~= 20 --&gt; low dimension
 * D ~= 1000 --&gt; medium dimension
 * D ~= 100,000 --&gt; high dimension
+
+#### 3. Distance
+
+
 
 
 
