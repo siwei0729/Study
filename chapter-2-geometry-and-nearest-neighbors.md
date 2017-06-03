@@ -8,13 +8,17 @@ Data : **List of feature** values and **one dimension for each feature. 也就�
 
 #### 2. Mapping
 
-* Real value : Direct copy
-* Binary : 0 or 1
-* Categorical feature with v possible values : v-many binary indicator feature
+* Real value --&gt; Direct copy
+* Binary --&gt; 0 or 1
+* Categorical feature with v possible values --&gt; v-many binary indicator feature
+
+![](/assets/Untitled picture.png)
 
 
 
-e.g. x = (x<sub>1</sub> , x<sub>2</sub>, ..., x<sub>D</sub>)   x<sub>D</sub> denotes Dth feature
+* D ~= 20 --&gt; low dimension
+* D ~= 1000 --&gt; medium dimension
+* D ~= 100,000 --&gt; high dimension
 
 
 
