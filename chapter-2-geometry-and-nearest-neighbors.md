@@ -14,5 +14,7 @@ Data : **List of feature** values and **one dimension for each feature. 也就�
 
 
 
-e.g. x = (x<sub>1</sub>)
+e.g. x = (x<sub>1</sub> , x<sub>2</sub>, ..., x<sub>D</sub>)   x<sub>D</sub> denotes Dth feature
+
+
 
